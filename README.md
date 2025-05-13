@@ -6,8 +6,8 @@ The other two part are
 - Knowledge Graph repo: https://github.com/courtofdreams/llm-kag-communitynote
 
 Folder 0.raw_data_samples contains raw community notes data from NLP Preprocessing Pipeline <br><br>
-1.BERTopic.ipynb contains code that performs the TopicModeling, andthe  results are in the folder 1.topic_model_results <br>
-We found that Politics is the main theme. <br>
+1.BERTopic.ipynb contains code that performs the TopicModeling, andthe  results are in the folder 1.topic_model_results
+We found that Politics is the main theme. <br><br>
 2A.Manual_Filter_Politics.xlsx is a manual selection of the highest topic level to be included as the Politics theme. <br>
 Then we filter further to 3 main topics with code in 2B.Filter_3MainTopics.ipynb. 
 The results files are in folder 2.politics_notes
